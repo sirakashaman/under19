@@ -1,0 +1,8 @@
+
+	#page-wrapper {
+		-moz-transition: -moz-filter 0.25s ease;
+		-webkit-transition: -webkit-filter 0.25s ease;
+		-ms-transition: -ms-filter 0.25s ease;
+		transition: filter 0.25s ease;
+	}
+
